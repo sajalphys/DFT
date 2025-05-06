@@ -1,6 +1,6 @@
 ###################This Code Helps You in installing Vesta in your Linux System #############
-########### Run chmod +x vestasimpleinstall.sh in the directory containing the script #######
-########### Run sh vestasimpleinstall.sh ####################################################
+########### Run chmod +x xcrysden_resolve.sh in the directory containing the script #######
+########### Run sh xcrysden_resolve.sh ####################################################
 ########### Script Written by - Sajal Biswas, Assistant Prof. of Physics, KWC, Nadia, WB ####
 ########### For any query Email :- sajalphys@gmail.com ######################################
 #!/bin/bash
